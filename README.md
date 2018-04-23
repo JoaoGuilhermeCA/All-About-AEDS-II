@@ -7,7 +7,8 @@ Há Links importantes ou que comtém conteúdos úteis para o desenvolvimento do
 Tudo que eu Preciso olhar com Tempo. Não Esqueça de falar para o Grupo.
   
   1. https://medium.com/@joeldg/an-advanced-tutorial-a-new-crypto-currency-trading-bot-boilerplate-framework-e777733607ae
-      O linguagem utilizada é PHP, embora haja códigos de execução em python.
+      
+      1.1. O linguagem utilizada é PHP, embora haja códigos de execução em python.
 
   2. https://pythonprogramming.net/getting-stock-prices-python-programming-for-finance/
   
@@ -20,4 +21,5 @@ Tudo que eu Preciso olhar com Tempo. Não Esqueça de falar para o Grupo.
   6. Curso de Análise Técnica: https://portaldotrader.com.br/aprenda/cursos/curso-gratuito-analise-tecnica
   
   7. Docker: https://www.docker.com/community-edition#/download
-      Aprender sobre "Conteineirs".
+      
+      7.1. Aprender sobre "Conteineirs".
