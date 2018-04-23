@@ -20,6 +20,6 @@ Tudo que eu Preciso olhar com Tempo. Não Esqueça de falar para o Grupo.
   
   6. Curso de Análise Técnica: https://portaldotrader.com.br/aprenda/cursos/curso-gratuito-analise-tecnica
   
-  7. Docker: https://www.docker.com/community-edition#/download
+  7. Docker: https://store.docker.com/editions/community/docker-ce-desktop-windows
       
       7.1. Aprender sobre "Conteineirs".
